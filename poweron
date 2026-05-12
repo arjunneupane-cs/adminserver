@@ -10,7 +10,7 @@
   "game_server": "https://game-services-svc-611661370769.asia-south1.run.app",
   "test_mode": "false",
   "topup_active": "true",
-  "test_url": "https://test-kh-pi.vercel.app", 
+  "test_url": "https://khelmela-web-view.vercel.app/admin/login", 
 
   "KF1": "https://khelmela-web-view.vercel.app",
   "KF2": "https://khelmela-web-view.vercel.app",
